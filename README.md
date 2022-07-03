@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChenSheng6869&show_icons=true&hide_title=true&theme=blue-green&hide=contribs" />
 
 
-- 🔭 研二在读学生
+- 🔭 研二在读学生,喜欢折腾
 - 🤔 感悟生活、热气生活
 - 🌱 目前在学习SpringBoot相关技术栈
 - 💬 什么都想学一点
