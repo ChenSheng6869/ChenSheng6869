@@ -1,6 +1,6 @@
 ### Hey, 欢迎来到我的主页 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChenSheng6869&show_icons=true&hide_title=true&theme=gotham" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChenSheng6869&show_icons=true&hide_title=true&theme=blue-green&hide=contribs" />
 
 
 - 🔭 研二在读学生
