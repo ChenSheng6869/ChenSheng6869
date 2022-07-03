@@ -8,4 +8,4 @@
 - 🌱 目前在学习SpringBoot相关技术栈
 - 💬 什么都想学一点
 - 😄 逐渐开始写点博客，阶段性总结
-- 📫 [个人主页](https://www.cnblogs.com/csrecord/)
+- 📫 [博客主页](https://www.cnblogs.com/csrecord/)
