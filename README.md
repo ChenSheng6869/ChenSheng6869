@@ -9,3 +9,15 @@
 - 💬 什么都想学一点
 - 😄 逐渐开始写点博客，阶段性总结
 - 📫 [博客主页](https://www.cnblogs.com/csrecord/)
+
+#### :computer: Programming languages and tools:
+<p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<br />
+</p>
