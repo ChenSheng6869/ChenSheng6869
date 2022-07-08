@@ -5,8 +5,8 @@
 
 - 🔭 研二在读学生,喜欢折腾
 - 🤔 感悟生活、热气生活
-- 🌱 目前正在通过自学将SpringBoot学习过程中的知识应用到项目中
-- 💬 正在项目中集成redis,rabbitmq等中间件做一些优化处理
+- 🌱 目前通过自学将SpringBoot学习过程中的知识应用到项目中
+- 💬 尝试在项目中集成redis,rabbitmq等中间件做一些优化处理
 - 😄 逐渐开始写点博客，阶段性总结
 - 📫 [博客主页](https://www.cnblogs.com/csrecord/)
 
